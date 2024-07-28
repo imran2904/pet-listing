@@ -12,7 +12,7 @@ This is a simple Pet Listing Application built using React, Bootstrap, and Tailw
 ├── src
 │ ├── components
 │ │ ├── PetDetails.js
-│ │ ├── PetList.js
+│ │ ├── PetList.js    
 │ │ ├── SearchForm.js
 │ ├── context
 │ │ ├── PetContext.js
@@ -66,4 +66,4 @@ The `searchPets` function in `src/services/api.js` is responsible for fetching p
 
 ## Contact
 
-For any questions or issues, please contact [your-email@example.com].
+For any questions or issues, please contact [imarankhan9768@gmail.com].
